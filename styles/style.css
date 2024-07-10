@@ -143,3 +143,42 @@ border: 2px solid red;
 margin-top: -150px;
 margin-left: 90px;
 }
+.text1{
+    width: 852px;
+height: 37px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.text2{
+    width: 852px;
+height: 52px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 35px;
+}
+.Language-container{
+    width: 1140px;
+height: 299px;
+border: 2px solid red;
+display: flex;
+align-items: center;
+justify-content: space-around;
+margin: 5px auto;
+}
+.Language1{
+    border-radius: 16px;
+
+    background: rgba(255, 76, 30, 0.05);
+}
+.Language2{
+    border-radius: 16px;
+
+    background: rgba(0, 76, 232, 0.05);
+}
+.Language3{
+    border-radius: 16px;
+
+    background: rgba(255, 223, 0, 0.05);
+}
